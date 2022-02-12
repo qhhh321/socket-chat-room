@@ -1,5 +1,5 @@
 # socket-chat-room
-基于socket.io的简易聊天室
+基于socket.io的简易聊天室，多个用户可以进入聊天室，可以实时进行聊天。
 
 本地需要安装node环境
 
